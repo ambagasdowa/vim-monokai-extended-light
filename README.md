@@ -1,4 +1,4 @@
-# vim-monokai-phoenix
+# vim-monokai-extended-light
 
 A different monokai phoenix theme for Vim, based on Monokai-phoenix found in the Javascript-Next Sublime package.
 
@@ -9,7 +9,7 @@ For the optimal JavaScript syntax experience, it is recommended to use [pangloss
 Using Plug, you can do the following:
 
 ```vim
-Plug 'reewr/vim-monokai-phoenix'
+Plug 'ambagasdowa/vim-monokai-extended-light'
 ```
 
 Then do :PlugInstall and you're good to go
