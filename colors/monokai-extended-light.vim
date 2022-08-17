@@ -1,5 +1,10 @@
-" Maintainer: Jesus Baizabal <baizabal.jesus@gmail.com>
-" Repository: http://github.com/ambagasdowa
+" Maintainer: Alexander Imenes <alexander.imenes@gmail.com>
+" Repository: http://github.com/reewr
+"
+" Note: This file is auto-generated using a script of mine. If you have
+"       any complaints about the syntax or readability of this file,
+"       please make an issue. You can also see the tool used to create
+"       this colourscheme at github.com/reewr/monokai-phoenix-builder
 
 set background=dark
 hi clear
